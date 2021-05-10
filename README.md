@@ -2,7 +2,7 @@
 
 - 🔭 I'm not currently working
 
-- 🌱 I am currently learning HTML, CSS, Javascript, Bootstrap
+- 🌱 I am currently learning React, Javascript, HTML, CSS, Bootstrap
 
 - 👯 'I'm looking to collaborate on new front-end projects
 
