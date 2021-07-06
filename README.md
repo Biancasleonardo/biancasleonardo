@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I'm not currently working
+- 🔭 I am available for opportunities
 
 - 🌱 I am currently learning React, Javascript, HTML, CSS, Bootstrap
 
