@@ -2,7 +2,7 @@
 
 - 🔭 I am available for opportunities
 
-- 🌱 I am currently learning React | JavaScript | HTML | CSS | Node.Js 
+- 🌱 I am currently learning React | JavaScript | HTML | CSS 
 
 - 👯 'I'm looking to collaborate on new front-end projects
 
